@@ -1,0 +1,1 @@
+nama table dan database sama = "notes"
